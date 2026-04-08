@@ -41,22 +41,10 @@ The project is composed of three main components:
 
 ---
 
-## 📂 Repository Structure
-├── notebooks/
-│ ├── image_preprocessing.ipynb
-│ ├── model_training_inference.ipynb
-│
-├── app/
-│ ├── web_app/
-│ ├── mobile_app/
-│
-├── raspberry_pi/
-│ ├── deployment_scripts/
-│
-├── data/
-│ ├── sample_images/
-│
-├── README.md
+## 📂 Rdataset
+https://datasetcatalog.nlm.nih.gov/dataset?q=0001491007 for bacteriology
+
+
 
 
 ---
